@@ -1,21 +1,31 @@
 # Share Text Online
 
-Share text easily with a temporary link using PrimeNotepad.
+Share text instantly with a temporary link using PrimeNotepad.
 
-The Share Text tool lets you create a secure link for any text that automatically expires after a selected time.
+The Share Text tool allows you to paste any text and generate a secure shareable link.  
+You can send the link to anyone, and the text can automatically expire after a selected time for better privacy.
 
 ## Features
 
-- Create shareable text links
-- Set expiration time
+- Create temporary shareable text links
+- Set custom expiration time
 - No login required
-- Free online tool
+- Fast and free online tool
+- Works on desktop and mobile devices
+
+## How It Works
+
+1. Paste your text into the editor
+2. Generate a shareable link
+3. Send the link to anyone
+4. The text expires automatically based on your settings
 
 ## Try the Tool
 
-Use the tool here:  
+Use the Share Text tool here:  
 https://www.primenotepad.com/share-text
 
 ## About PrimeNotepad
 
-PrimeNotepad provides free online tools including text editors, QR code generators, data converters, and developer utilities.
+PrimeNotepad is a collection of free online tools designed for developers, students, and everyday users.  
+It includes utilities like an online text editor, QR code generator, data converters, and other productivity tools.
