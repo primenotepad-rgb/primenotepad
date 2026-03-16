@@ -22,8 +22,7 @@ You can send the link to anyone, and the text can automatically expire after a s
 
 ## Try the Tool
 
-Use the Share Text tool here:  
-https://www.primenotepad.com/share-text
+Use the [Share Text](https://www.primenotepad.com/share-text) tool here:  
 
 ## About PrimeNotepad
 
